@@ -1,0 +1,1 @@
+../../../ALSVGKit/Source/UIKit additions/SVGKImageView.h

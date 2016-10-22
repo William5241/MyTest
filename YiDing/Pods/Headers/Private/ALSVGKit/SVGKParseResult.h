@@ -1,0 +1,1 @@
+../../../ALSVGKit/Source/Parsers/SVGKParseResult.h

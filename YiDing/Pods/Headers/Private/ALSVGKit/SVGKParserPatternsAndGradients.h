@@ -1,0 +1,1 @@
+../../../ALSVGKit/Source/Parsers/Parser Extensions/SVGKParserPatternsAndGradients.h
